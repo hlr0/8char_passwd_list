@@ -3,7 +3,7 @@
 ------------------------------------------------
 ### Description
 ------------------------------------------------
-Uses GNU Parellel -- to generates password lists in number sequence
+Uses GNU Parallel -- to generates password lists in number sequence
 of 48mb "PER" txt files for cracking wifi passwords
 
 * uses lowercase
