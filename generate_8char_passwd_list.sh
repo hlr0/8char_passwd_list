@@ -1,5 +1,5 @@
 #!/bin/bash
-#USAGE: parallel bash ::: ./generate_8char_passwd_list.sh
+#USAGE: parallel -n2 -P3 bash ::: ./generate_8char_passwd_list.sh
 
 #Description
 # Make sure GNU parallel and screen is installed on your system before using this file.
